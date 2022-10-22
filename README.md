@@ -1,4 +1,4 @@
-# Mini_Youtube_App
+# Masai Student Evaluation Report
 
 
 
@@ -11,7 +11,7 @@
 
 </p>
 
-<h3 align="center"><a href="https://boisterous-sprinkles-aa9429.netlify.app"><strong>Want to see live preview »</strong></a></h3>
+<h3 align="center"><a href="https://euphonious-marshmallow-e4cee3.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
 
 <p align="center"> 
     <br />&#10023;
@@ -19,9 +19,9 @@
     <a href="#Contributors">Contributors</a> &#10023;
   </p>
   
-A Mini Youtube app where people can watch movies ,songs without any advertisement.</br>
-Tech-Stack:- CSS, HTML, JavaScript.</br>
-Role :- fetched Youtube API and implemented youtube aap.
+A Masai School student evaluation report card app.
+It accepts all the details of the student as an input and gives the report card as an output.
+tech-Stack: CSS, HTML, and JavaScript 
   
 
 <br />
@@ -42,7 +42,7 @@ Role :- fetched Youtube API and implemented youtube aap.
 - [Maheshwar Sahni](https://github.com/maheshwar7667291394)
 
 <h1>Front Page Of Mini You Tube App</h1>
- <img src="https://i.ibb.co/VgLR0zc/Screenshot-159.png" alt="">
+ <img src="https://i.ibb.co/M8GLXTn/Screenshot-161.png" alt="">
 
 
 ## Show your support
